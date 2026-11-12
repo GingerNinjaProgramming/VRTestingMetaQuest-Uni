@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Dirt/Dirt.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Grass/Grass.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Dirt/Dirt_Albedo.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Dirt/Dirt_Inst.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Dirt/Dirt_Normal.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Dirt/Dirt_Roughness.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Grass/Grass_cluster.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Target.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Target/Target_Albedo2.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Target/Target_Albedo.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Target/Target1.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Target1.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Target/Target.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Grass/Grass_cluster_FoliageType.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Grass/Grass_Albedo.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Tree/Leaves.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Grass/NewActorFoliage.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Tree/Tree.uasset",
+				"C:/Users/Ben/Documents/GitHub/VRTestingMetaQuest-Uni/MyProject/Content/Environment/Tree/Trunk.uasset"
+			]
+		}
+	]
+}
