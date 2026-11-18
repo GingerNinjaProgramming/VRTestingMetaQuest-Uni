@@ -1,0 +1,13 @@
+# VRTestingMetaQuest-Uni
+
+![](https://file.garden/aSY-yx_ZmANpQe1l/Year2Tasks/Screenshot%202026-11-18%20110052.png)
+
+## Game Breakdown 
+
+For our work we made a basic recreation of the popular game duck hunt in vr. For this project we made a menu level which uses the gun the player has to interact with the menu icons. In the game its self you are in one place having to shoot more than 50% of the ducks that spawn per wave resulting in a loss if you do not shoot enough ducks. The waves last over a minute each with the amount of ducks spawning per wave being 3 multiplied the wave number have a scaling difficultly as the game goes on. Along with this to ensure the ducks spawn are regular increments without making the game impossible by spawning a duck just as the game wave ends, the ducks spawn using the formula "(WaveTime * 75%) / TargetDucksToBeSpawned" this means that all the ducks will be spawned once the wave has gone on for 75% of its max time and the ducks will spawn on regular intervals inside of this 75% section of the wave time. In the circumstance you don't get the amount of ducks you were supposed to get the player will receive a game over before being promptly ejected from the game.
+
+## Learning Moments/Challenges
+
+Being my first Vr projects I encountered some unique problems that come with just the act of doing all the things you would regularly do while testing a game but in vr. This was mainly problematic when it came to trying to do precise testing in a vr environment as considering how obstructive having a vr headset on to test is, it makes simple actions,such as checking the execution of blueprints, a lot more difficult. Additionally I have found during this project that being able to ascertain the exact cause and effect of bugs while testing in vr can also be a lot more difficult. Though not an airtight fix the workflow/solution I have found that helps this problem the most is to treat the project less like a vr project and more like a 3d project that is in vr. When it comes to this it means to be able to read when a problem needs the headset on or not and what can just be seen from the editor view separate to the player them selves.
+
+Another problem that comes specifically from VR is the unique way the player interacts with the UI in the world as other than fringe circumstances having the UI bound to the players viewport will not cut it in vr like it does in any other platform. This is due to the fact that in vr the players vision is the viewport and for most circumstances it can cost immersion.
